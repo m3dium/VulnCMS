@@ -33,6 +33,9 @@ Scan port 5000 thu được web sử dụng WPS:
 
 ![image](https://user-images.githubusercontent.com/72652376/125253828-065cb980-e324-11eb-94cc-b0dddc5bf745.png)
 
+
+ANH THIENNC BÊN VIETTEL CYBER VÀO CỨU EM VỚI :V 
+
 Scan được rất nhiều thư mục ẩn:
 
 ![image](https://user-images.githubusercontent.com/72652376/125254226-7703d600-e324-11eb-9294-16b70d0f6796.png)
