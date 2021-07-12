@@ -34,8 +34,6 @@ Scan port 5000 thu được web sử dụng WPS:
 ![image](https://user-images.githubusercontent.com/72652376/125253828-065cb980-e324-11eb-94cc-b0dddc5bf745.png)
 
 
-ANH THIENNC BÊN VIETTEL CYBER VÀO CỨU EM VỚI :V 
-
 Scan được rất nhiều thư mục ẩn:
 
 ![image](https://user-images.githubusercontent.com/72652376/125254226-7703d600-e324-11eb-9294-16b70d0f6796.png)
@@ -57,6 +55,10 @@ Thử đổi đường dẫn xem code bên dưới có đổi không thì hiện
 
 ![image](https://user-images.githubusercontent.com/72652376/125255565-c565a480-e325-11eb-8fa6-2d8c8fca6963.png)
 
+User và pass của joomla(port 8081)
+
+![image](https://user-images.githubusercontent.com/72652376/125272141-b555c100-e335-11eb-8b9d-a5aa343d7935.png)
+
 
 Tìm kiếm các trường hợp nhưng không thể đọc cũng không thể up root
 
@@ -66,6 +68,20 @@ Tìm kiếm các trường hợp nhưng không thể đọc cũng không thể u
 
 Thu được 3 user
 
+SCAN PORT 8081:
+
+![image](https://user-images.githubusercontent.com/72652376/125272926-973c9080-e336-11eb-9a18-8da08268c4e3.png)
+
+Login với thông tin thu được ở trên:
+
+![image](https://user-images.githubusercontent.com/72652376/125273046-ba674000-e336-11eb-8702-1654c949bd18.png)
+
+Tìm kiếm được tên user người dùng và chuỗi có thể là password
+
+![image](https://user-images.githubusercontent.com/72652376/125273301-fac6be00-e336-11eb-9b21-7de0cd30acbc.png)
+
+Login thành công thu được user.txt
+
+![image](https://user-images.githubusercontent.com/72652376/125273461-25187b80-e337-11eb-87b4-10854e85e3c6.png)
 
 
-ANH THIENNC BÊN VIETTEL CYBER VÀO CỨU EM VỚI
