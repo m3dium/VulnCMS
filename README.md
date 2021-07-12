@@ -55,7 +55,13 @@ Thử đổi đường dẫn xem code bên dưới có đổi không thì hiện
 ![image](https://user-images.githubusercontent.com/72652376/125255565-c565a480-e325-11eb-8fa6-2d8c8fca6963.png)
 
 
+Tìm kiếm các trường hợp nhưng không thể đọc cũng không thể up root
 
+![image](https://user-images.githubusercontent.com/72652376/125265976-8c323200-e32f-11eb-8753-cb2bf0d1ef6c.png)
+
+![image](https://user-images.githubusercontent.com/72652376/125266059-9e13d500-e32f-11eb-9dfa-cb0c3c73230e.png)
+
+Thu được 3 user
 
 
 
