@@ -84,4 +84,39 @@ Login thành công thu được user.txt
 
 ![image](https://user-images.githubusercontent.com/72652376/125273461-25187b80-e337-11eb-87b4-10854e85e3c6.png)
 
+Port 9001:
+
+![image](https://user-images.githubusercontent.com/72652376/207228003-14f991e3-6688-4adf-8012-b0b5df512349.png)
+
+![image](https://user-images.githubusercontent.com/72652376/207228074-66ed4390-12d8-4e1b-91b0-e15da7aee74d.png)
+
+Link: https://www.exploit-db.com/exploits/41564
+
+
+OR unix/webapp/drupal_drupalgeddon2 msfconsole
+
+![image](https://user-images.githubusercontent.com/72652376/207228171-339af964-f8fe-4f6a-adcd-ea5fda9c3012.png)
+
+![image](https://user-images.githubusercontent.com/72652376/207228279-a3ff77a7-907e-4a77-b3dc-a61a7cd2b555.png)
+
+
+cat tyrell.pass
+
+Username: tyrell
+
+Password: mR_R0bo7_i5_R3@!_
+
+SSH vào tài khoản trên.
+
+Kiểm tra để leo thang:
+
+![image](https://user-images.githubusercontent.com/72652376/207228637-1e3d6d2b-921d-4297-ac8a-62bd26c97855.png)
+
+![image](https://user-images.githubusercontent.com/72652376/207228697-471f0be5-32c6-4e3f-9f43-f38a171e173e.png)
+
+Oke dễ rồi bây giờ thực hiện lên root là xong
+
+![image](https://user-images.githubusercontent.com/72652376/207228749-b3575eb8-186b-4d0c-b7cc-4f869d336603.png)
+
+Done !!
 
